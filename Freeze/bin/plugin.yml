@@ -1,0 +1,8 @@
+main: me.HybridPlague.Freeze.Main
+name: Freeze
+author: HybridPlague
+version: 1.0
+
+commands:
+  Freeze:
+    description: Freeze a player by disabling command usage, movement, chat, and damage.
